@@ -470,9 +470,6 @@ projects[lightbox2][version] = "1.0-beta1"
 projects[environment_indicator][subdir] = "contrib"
 projects[environment_indicator][version] = "1.1"
 
-projects[lightbox2][subdir] = "contrib"
-projects[lightbox2][version] = "1.0-beta1"
-
 projects[views_php][subdir] = "contrib"
 projects[views_php][version] = "1.x-dev"
 
